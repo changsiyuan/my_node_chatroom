@@ -19,4 +19,4 @@
 - 本程序参考[这个](https://github.com/wayou/hichat)完成，加入了单聊功能；
 - 界面截图如下：
 
-
+![chatroom](https://raw.githubusercontent.com/changsiyuan/my_node_chatroom/master/www/images/chatroom.png)
