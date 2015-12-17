@@ -1,7 +1,5 @@
 ## my_node_chatroom
 
----
-
 ### 程序运行方法
 - 在运行server的机器上面全局安装node、express、socket.io等；
 - 将上面的zip解压到任意目录；
